@@ -29,5 +29,3 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=windson-dev&show_icons=true&theme=dracula" alt="Windson" />
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=windson-dev" alt="Windson" /> </p>
