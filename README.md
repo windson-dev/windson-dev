@@ -13,10 +13,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=windson-dev&layout=compact&theme=dracula" alt="Windson" />
-</p>
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=windson-dev&show_icons=true&theme=dracula" alt="Windson" />
-</p>
